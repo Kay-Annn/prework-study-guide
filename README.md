@@ -1,6 +1,4 @@
-# prework-study-guide
-Study guide to keep track of course work learning materials
-# <Prework Study Guide Webpage>
+# Prework Study Guide Webpage
 
 ##  Description
 Explored three important languages in coding. Namely: HTML, CSS and JavaScript. They all came together to make a functional and visially apealing web app. I built this app to learn the foundations of three core programing apps as well as to serve as a reference for my studies.
